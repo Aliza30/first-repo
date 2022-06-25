@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+text-align: center;
+font-family: 'Anek Malayalam', sans-serif;
+font-size: 250%;
+color: #40514E;
+}
+h1{
+    margin: 0 auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 100%;
+    color: #874356;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 150%;
+    color: #874356;
+}
+h3{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 100%;
+    color: #874356;
+}
+p{
+    font-size:20px;
+    line-height: 2;
+    width: 30%;
+    margin: 16px auto;
+    
+}
+a{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 20px;
+    color: #87805E;
+    text-decoration: none;
+    margin: 10px ;
+}
+a:hover{
+    color: hsl(46, 68%, 40%);
+}
+.top-c{
+    position: relative;
+    background-color: #e3d0aa;
+    padding: 100px;
+}
+
+img{
+    position: relative;
+    align-items: center;
+}
+hr{
+    border-style:dotted none none;
+    border-color:#E7AB79;
+    border-width:5px;
+    width: 4%;
+    margin: 100px auto;
+}
+.skill{
+    margin: 20px auto;
+    width: 10%;
+    height: 10%;
+}
+.pro{
+    text-decoration: underline;
+}
+.pizza{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}
+.contact-me{
+    margin: 40px auto 60px ;
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 16px;
+    background: #e3d0aa;
+    padding: 10px 20px 10px 20px;
+    border: solid #f5e8da 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #B09B71;
+    text-decoration: none;
+  }
+  .bot-c{
+    background-color: #e3d0aa;
+    padding: 50px 0 30px;
+    
+  }
